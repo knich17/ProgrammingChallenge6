@@ -1,4 +1,4 @@
 # Challenge 6 - Neural Network
 
 ## Problem Description
-Currently researching Artificial Neural Networks and Recursive Neural Networks which is what my next challenge will likely be based around.
+Using the League of Legends API, build a neural netowork capable of guessing a players rank/performance for a given game.
